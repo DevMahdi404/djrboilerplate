@@ -1,13 +1,10 @@
 __pycache__
+node_modules
 *.pyc
 .env
-node_modules
+.DS_store
 
-data.json
+assets
 media/dynamic/**/
-
 env
 ENV
-
-.eslintcache
-.DS_store
